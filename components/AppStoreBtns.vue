@@ -1,10 +1,10 @@
 <template>
-  <div class="flex gap-1">
-    <div class="flex gap-1">
-      <img class="h-10 w-auto" :src="appDesktop" alt="Vue Jobs" />
-      <img class="h-10 w-auto" :src="appPhone" alt="Vue Jobs" />
+  <div class="flex gap-4 mt-8">
+    <div class="flex gap-4">
+      <img class="h-9 w-auto" :src="appDesktop" alt="Vue Jobs" />
+      <img class="h-9 w-auto" :src="appPhone" alt="Vue Jobs" />
     </div>
-    <div><img class="h-10 w-auto" :src="appAndroid" alt="Vue Jobs" /></div>
+    <div><img class="h-9 w-auto" :src="appAndroid" alt="Vue Jobs" /></div>
   </div>
 </template>
 

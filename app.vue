@@ -1,12 +1,14 @@
 <template>
   <div>
     <MainNavBar />
+    <DiscountBar />
     <HeroSection />
     <PrimaryInfoSection />
     <ImageGallery />
     <ImageGalleryHighlight />
     <SecondaryInfoSection />
     <FeatureCards />
+    <DiscountBar />
     <PricingDetails />
     <TweetFeed />
     <IntroductionSection />
@@ -17,6 +19,7 @@
 
 <script>
 import FeatureCards from "./components/FeatureCards.vue";
+import DiscountBar from "./components/DiscountBar.vue";
 import FooterTop from "./components/FooterTop.vue";
 import HeroSection from "./components/HeroSection.vue";
 import ImageGallery from "./components/ImageGallery.vue";

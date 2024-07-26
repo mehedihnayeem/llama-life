@@ -11,7 +11,7 @@ This project is a clone of the "Llama Life" website, created as part of a web de
 
 ## Demo
 
-Check out the live demo of the project: [Llama Life Clone Demo](#)
+Check out the live demo of the project: [Llama Life Clone Demo](#https://llama-life-clone.netlify.app/)
 
 ## Features
 
@@ -139,6 +139,3 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-
-# llama-life
-# llama-life
