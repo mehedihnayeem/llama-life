@@ -1,11 +1,13 @@
 <template>
   <div class="text-center font-bold py-20">
-    <p class="text-3xl">Get ready to live your best life!</p>
+    <p class="text-3xl px-4">Get ready to live your best life!</p>
     <img class="w-[50rem] mx-auto px-8 my-8" src="../assets/images/img9.png" />
     <img class="w-[50rem] mx-auto px-8 my-8" src="../assets/images/img10.png" />
-    <p class="text-3xl mt-16">And now, also available on iOS!</p>
+    <p class="text-3xl mt-16 px-4">And now, also available on iOS!</p>
     <img class="w-[50rem] mx-auto my-8" src="../assets/images/img11.png" />
-    <AppStoreBtns class="justify-center my-1" />
+    <AppStoreBtns
+      class="justify-center my-1 flex-col items-center md:flex-row"
+    />
     <!-- <p
       class="text-sm font-extrabold hover:underline hover:text-orange-400 hover:cursor-pointer"
     >

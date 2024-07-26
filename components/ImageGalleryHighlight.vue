@@ -1,5 +1,5 @@
 <template>
-  <div class="p-36 bg-customGray">
+  <div class="md:p-36 p-20 bg-customGray">
     <p class="text-3xl text-center font-bold">
       Unlike other task managers, <br />Llama Life is designed to help you work
       <br /><i>THROUGH</i> a list...

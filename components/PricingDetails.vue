@@ -1,13 +1,15 @@
 <template>
   <div class="my-40">
-    <div class="text-center">
+    <div class="text-center px-4">
       <h2 class="text-3xl font-bold mb-4">The first 3 days are on us 🥳</h2>
       <p class="text-2xl text-gray-500 font-extralight tracking-wider">
         Start now, choose a plan later
       </p>
     </div>
 
-    <div class="md:flex md:gap-8 justify-center my-20">
+    <div
+      class="flex flex-col md:flex-row gap-8 justify-center items-center my-20"
+    >
       <div>
         <p class="text-3xl font-bold">Monthly</p>
         <div

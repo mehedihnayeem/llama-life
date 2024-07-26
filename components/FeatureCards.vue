@@ -1,6 +1,6 @@
 <template>
   <div class="py-24 bg-customGray">
-    <p class="text-center font-bold text-3xl lg:text-4xl my-24">
+    <p class="text-center font-bold text-3xl lg:text-4xl my-24 px-4">
       Whiz through your monstrous to-do list with...
     </p>
 

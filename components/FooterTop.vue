@@ -6,7 +6,9 @@
       about getting stuff done
     </p>
     <div>
-      <AppStoreBtns class="my-4" />
+      <AppStoreBtns
+        class="my-8 flex flex-col md:flex-row md:gap-1 gap-2 justify-center items-center"
+      />
     </div>
 
     <p class="underline text-gray-600 text-xs">Remind me later</p>

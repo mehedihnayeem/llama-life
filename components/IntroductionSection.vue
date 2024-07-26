@@ -1,6 +1,6 @@
 <template>
   <div
-    class="text-center px-32 md:px-48 lg:px-96 lg:mx-32 my-36 leading-loose font-light"
+    class="text-center px-12 md:px-48 lg:px-96 lg:mx-32 my-36 leading-loose font-light"
   >
     <p class="font-semibold text-3xl mb-8">
       👋 Hello, I'm Marie <br />

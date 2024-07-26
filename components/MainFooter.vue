@@ -178,7 +178,7 @@
     </div>
 
     <div
-      class="bg-customGray flex justify-between p-5 mt-10 px-32 lg:px-48 text-gray-500"
+      class="bg-customGray flex justify-between p-5 mt-10 px-12 lg:px-48 text-gray-500"
     >
       <div>© 2024 Llama Life, Inc.</div>
 

@@ -1,7 +1,7 @@
 <template>
   <div>
     <div
-      class="lg:flex lg:gap-32 lg:items-center lg:my-20 lg:mb-4 px-[20%] lg:px-[10%] xl:px-[25%] md:mt-40"
+      class="lg:flex lg:gap-20 lg:items-center lg:my-20 lg:mb-4 px-[20%] lg:px-[5%] xl:px-[25%] mt-28 md:mt-40"
     >
       <div>
         <p class="text-4xl font-extrabold">
@@ -14,7 +14,7 @@
           <li>👍 Do the stuff you said you would</li>
         </ul>
 
-        <AppStoreBtns class="flex justify-start my-4" />
+        <AppStoreBtns class="flex justify-start my-4 flex-col" />
 
         <p class="mt-4 text-xs font-light">
           Try for free and welcome bliss back into your life!<br />No credit
