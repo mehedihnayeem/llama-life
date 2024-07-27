@@ -8,7 +8,7 @@
       class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 md:px-[20%] lg:px-[16%] xl:px-[27%]"
     >
       <div
-        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center border-orange-400 hover:shadow-orange-300 m-auto rounded-2xl px-8"
+        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center hover:shadow-yellow-300 hover:shadow-[0_4px_8px_0_rgba(255,165,0,0.4)] m-auto rounded-2xl px-8"
       >
         <p class="text-3xl p-2">⏳</p>
         <p class="font-bold">Task Timers</p>
@@ -17,7 +17,7 @@
         </p>
       </div>
       <div
-        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center border-orange-400 hover:shadow-orange-300 m-auto rounded-2xl px-8"
+        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center hover:shadow-yellow-300 hover:shadow-[0_4px_8px_0_rgba(255,165,0,0.4)] m-auto rounded-2xl px-8"
       >
         <p class="text-3xl p-2">⏰</p>
         <p class="font-bold">Alarm Types</p>
@@ -26,7 +26,7 @@
         </p>
       </div>
       <div
-        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center border-orange-400 hover:shadow-orange-300 m-auto rounded-2xl px-8"
+        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center hover:shadow-yellow-300 hover:shadow-[0_4px_8px_0_rgba(255,165,0,0.4)] m-auto rounded-2xl px-8"
       >
         <p class="text-3xl p-2">🎉</p>
         <p class="font-bold">End Time</p>
@@ -35,7 +35,7 @@
         </p>
       </div>
       <div
-        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center border-orange-400 hover:shadow-orange-300 m-auto rounded-2xl px-8"
+        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center hover:shadow-yellow-300 hover:shadow-[0_4px_8px_0_rgba(255,165,0,0.4)] m-auto rounded-2xl px-8"
       >
         <p class="text-3xl p-2">✨</p>
         <p class="font-bold">Chimes</p>
@@ -44,7 +44,7 @@
         </p>
       </div>
       <div
-        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center border-orange-400 hover:shadow-orange-300 m-auto rounded-2xl px-8"
+        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center hover:shadow-yellow-300 hover:shadow-[0_4px_8px_0_rgba(255,165,0,0.4)] m-auto rounded-2xl px-8"
       >
         <p class="text-3xl p-2">☝️</p>
         <p class="font-bold">Random Tasks</p>
@@ -53,7 +53,7 @@
         </p>
       </div>
       <div
-        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center border-orange-400 hover:shadow-orange-300 m-auto rounded-2xl px-8"
+        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center hover:shadow-yellow-300 hover:shadow-[0_4px_8px_0_rgba(255,165,0,0.4)] m-auto rounded-2xl px-8"
       >
         <p class="text-3xl p-2">🎨</p>
         <p class="font-bold">Personalize</p>
@@ -62,7 +62,7 @@
         </p>
       </div>
       <div
-        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center border-orange-400 hover:shadow-orange-300 m-auto rounded-2xl px-8"
+        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center hover:shadow-yellow-300 hover:shadow-[0_4px_8px_0_rgba(255,165,0,0.4)] m-auto rounded-2xl px-8"
       >
         <p class="text-3xl p-2">🌈</p>
         <p class="font-bold">Preset Lists</p>
@@ -71,7 +71,7 @@
         </p>
       </div>
       <div
-        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center border-orange-400 hover:shadow-orange-300 m-auto rounded-2xl px-8"
+        class="w-56 shadow-md bg-white h-48 flex flex-col justify-center items-center hover:shadow-yellow-300 hover:shadow-[0_4px_8px_0_rgba(255,165,0,0.4)] m-auto rounded-2xl px-8"
       >
         <p class="text-3xl p-2">👋</p>
         <p class="font-bold">Count overtime</p>

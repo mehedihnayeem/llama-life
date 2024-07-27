@@ -1,8 +1,10 @@
 <template>
   <div class="my-40">
     <div class="text-center px-4">
-      <h2 class="text-3xl font-bold mb-4">The first 3 days are on us 🥳</h2>
-      <p class="text-2xl text-gray-500 font-extralight tracking-wider">
+      <h2 class="text-[2rem] font-extrabold mb-4">
+        The first 3 days are on us 🥳
+      </h2>
+      <p class="text-[1.7rem] text-customLightGray tracking-wider font-light">
         Start now, choose a plan later
       </p>
     </div>
@@ -11,42 +13,48 @@
       class="flex flex-col md:flex-row gap-8 justify-center items-center my-20"
     >
       <div>
-        <p class="text-3xl font-bold">Monthly</p>
+        <p class="text-3xl font-bold pl-3">Monthly</p>
         <div
-          class="w-72 h-80 shadow-lg p-10 border-t-4 mt-4 rounded-lg border-rgb"
+          class="w-[17rem] h-[18rem] shadow-lg mt-4 rounded-lg border-rgb pt-[0.35rem]"
         >
-          <div>
-            <p class="font-bold mt-4">
-              <span class="text-4xl">$4</span>/ month
-            </p>
+          <div class="bg-white w-[17rem] p-10 h-[18rem] pt-10">
+            <p class="font-bold"><span class="text-3xl">$4</span> / mth</p>
             <ul>
-              <li class="mt-16 font-extralight">
-                📆 Same benefits as the Annual plan, just billed Monthly
+              <li class="mt-16 font-extralight text-sm">
+                <div class="flex gap-2">
+                  <div>📆</div>
+                  <div>
+                    Same benefits as the Annual plan, just billed Monthly
+                  </div>
+                </div>
               </li>
             </ul>
           </div>
         </div>
       </div>
       <div>
-        <p class="text-3xl font-bold">Annual</p>
+        <p class="text-3xl font-bold pl-3">Annual</p>
         <div
-          class="w-72 h-80 shadow-lg p-10 border-t-4 mt-4 rounded-lg border-rgb"
+          class="w-[17rem] h-[18rem] shadow-lg mt-4 rounded-lg border-rgb pt-[0.35rem]"
         >
-          <div>
-            <p class="font-bold mt-4">
-              <span class="text-4xl">$39</span>/ year
-            </p>
+          <div class="bg-white w-[17rem] p-10 h-[18rem] pt-10">
+            <p class="font-bold"><span class="text-3xl">$39</span> / yr</p>
             <button
-              class="bg-orange-200 text-orange-500 font-bold p-1 rounded-md text-sm mt-1"
+              class="bg-orange-200 text-orange-500 font-bold p-1 rounded-md text-xs mt-1"
             >
               SAVE 2 MONTHS
             </button>
-            <ul class="mt-8 font-extralight">
-              <li class="sc-iapWAC dfyaKb">✅ Access to all features</li>
-              <li class="sc-iapWAC dfyaKb">📱 Use on desktop and iOS</li>
-              <li class="sc-iapWAC dfyaKb">🥰 Self-cancel anytime</li>
-              <li class="sc-iapWAC dfyaKb">
-                🎁 Upcoming
+            <ul class="mt-8 font-extralight text-sm">
+              <li class="my-1">✅ &nbsp Access to all features</li>
+              <li class="my-1">
+                <div class="flex gap-2">
+                  <div>📱</div>
+                  <div>Use on desktop, iOS and Android</div>
+                </div>
+              </li>
+              <li class="my-1">🥰 &nbsp Self-cancel anytime</li>
+              <li class="my-1">
+                🎁 &nbsp Upcoming
                 <span
                   style="
                     text-decoration: underline;

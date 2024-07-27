@@ -1,16 +1,16 @@
 <template>
   <div>
     <nav
-      class="fixed top-0 left-0 w-full bg-white z-50 flex justify-between items-center px-5 py-1 shadow-sm shadow-slate-100 md:mb-8"
+      class="fixed top-0 left-0 w-full bg-white z-50 flex justify-between items-center px-5 py-2 lg:px-7 shadow-lg shadow-slate-100 md:mb-8"
     >
       <div class="font-bold text-[28px]">
-        <NuxtLink to="/" class="text-black font-extrabold"
+        <NuxtLink to="/" class="text-black font-extrabold tracking-wide"
           >llama life.</NuxtLink
         >
       </div>
       <div class="hidden lg:flex">
         <ul
-          class="flex flex-row gap-8 font-semibold text-gray-400 justify-center items-center"
+          class="flex flex-row gap-9 font-bold text-customLightGray justify-center items-center"
         >
           <li class="flex flex-col h-10 gap-[-2px]">
             <p
@@ -25,7 +25,9 @@
           <li><NuxtLink to="/">pricing</NuxtLink></li>
           <li><NuxtLink to="/">sign in</NuxtLink></li>
           <li>
-            <button class="bg-black text-white px-6 py-2 text-sm rounded-md">
+            <button
+              class="bg-black text-white px-[1.5rem] py-2 text-[0.9rem] font-bold rounded-md mr-2"
+            >
               <NuxtLink to="/">get started for free</NuxtLink>
             </button>
           </li>
